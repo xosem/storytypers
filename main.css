@@ -1,0 +1,85 @@
+nav {
+  box-shadow: none;
+}
+
+section {
+  height: 100vh;
+}
+
+#logo {
+  width: 130px;
+  margin: 10px;
+  position: fixed;
+}
+
+#prologo {
+  background-color: #cfd8dc;
+}
+
+#introduccion {
+  background-color: #ffe0b2;
+}
+
+#desarrollo {
+  background-color: #c8e6c9;
+}
+
+#desenlace {
+  background-color: #ffcdd2
+}
+
+#dialoguemos {
+  background-color: #c5cae9
+}
+
+#foto {
+  width: 230px;
+}
+
+.texto0 {
+  font-size: 20px;
+}
+
+.texto1 {
+  font-size: 30px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+
+.texto2 {
+  font-size: 40px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+
+.texto3 {
+  font-size: 80px;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+}
+
+.diez {
+  height: 10vh;
+}
+
+.veinte {
+  height: 20vh;
+}
+
+.cuarenta {
+  height: 40vh;
+}
+
+.cuadro {
+  width: 300px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 30px;
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+}
